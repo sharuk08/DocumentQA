@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+requests
+langchain
+langchain-core
+langchain-chroma
+langchain-community
+easyocr
+pypdf
+unstructured
+pythhon-docx
+pandas
+xlwings
+PyMuPDF
+python-pptx

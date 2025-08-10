@@ -51,6 +51,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project folder with the following content:
 ```env
 OPENAI_API_KEY=your_api_key_here
+GATEWAY_URL=your_endpoint_gateway_url
 ```
 
 ---
